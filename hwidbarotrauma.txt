@@ -7,3 +7,5 @@ forever list:
 823869439nH
 1025196031nH
 subs list:
+823869439nB
+1d
