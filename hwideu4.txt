@@ -4,5 +4,3 @@ forever:
 piar:
 876297727nA 
 subs:
-943406591nB - 1d
-do 07.07.2025 6 am
