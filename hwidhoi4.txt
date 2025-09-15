@@ -6,5 +6,3 @@ forever list:
 piar:
 943406591nP
 subs list:
-943406591nT
-9 14 2025
