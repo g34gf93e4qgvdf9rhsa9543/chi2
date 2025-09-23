@@ -4,5 +4,3 @@ forever list:
 1025196031nB
 1025196031nH
 subs list:
-1025196031nZ
-7d to 9 18 25
