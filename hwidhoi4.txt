@@ -3,6 +3,9 @@ forever list:
 823869439nB
 1025196031nB
 1025196031nH
+
 piar:
 943406591nP
+943406591nL 
+abaddon
 subs list:
